@@ -1,0 +1,6 @@
+{
+    "parent": "thaumictable:block/table",
+    "textures": {
+        "all": "thaumictable:items/table.png"
+    }
+}

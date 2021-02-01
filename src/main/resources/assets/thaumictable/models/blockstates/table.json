@@ -1,0 +1,171 @@
+{
+  "credit": "Made with Blockbench",
+  "ambientocclusion": false,
+  "textures": {
+    "26": "thaumictable:blocks/arcane_stone_1",
+    "31": "thaumictable:blocks/arcane_workbench_side",
+    "32": "thaumictable:blocks/arcane_workbench_top",
+    "37": "thaumictable:blocks/base_wood",
+    "particle": "thaumictable:blocks/arcane_workbench_side"
+  },
+  "elements": [
+    {
+      "from": [ 0, 8, 0 ],
+      "to": [ 16, 16, 16 ],
+      "faces": {
+        "north": {
+          "uv": [ 0, 0, 16, 8 ],
+          "texture": "#31",
+          "cullface": "north"
+        },
+        "east": {
+          "uv": [ 0, 0, 16, 8 ],
+          "texture": "#31",
+          "cullface": "east"
+        },
+        "south": {
+          "uv": [ 0, 0, 16, 8 ],
+          "texture": "#31",
+          "cullface": "south"
+        },
+        "west": {
+          "uv": [ 0, 0, 16, 8 ],
+          "texture": "#31",
+          "cullface": "west"
+        },
+        "up": {
+          "uv": [ 0, 0, 16, 16 ],
+          "texture": "#32",
+          "cullface": "up"
+        },
+        "down": {
+          "uv": [ 0, 0, 16, 16 ],
+          "texture": "#26"
+        }
+      }
+    },
+    {
+      "from": [ 11, 4, 1 ],
+      "to": [ 15, 8, 5 ],
+      "faces": {
+        "north": {
+          "uv": [ 1, 8, 5, 12 ],
+          "texture": "#31"
+        },
+        "east": {
+          "uv": [ 11, 8, 15, 12 ],
+          "texture": "#31"
+        },
+        "south": {
+          "uv": [ 11, 8, 15, 12 ],
+          "texture": "#26"
+        },
+        "west": {
+          "uv": [ 1, 8, 5, 12 ],
+          "texture": "#31"
+        }
+      }
+    },
+    {
+      "from": [ 11, 4, 11 ],
+      "to": [ 15, 8, 15 ],
+      "faces": {
+        "north": {
+          "uv": [ 1, 8, 5, 12 ],
+          "texture": "#31"
+        },
+        "east": {
+          "uv": [ 1, 8, 5, 12 ],
+          "texture": "#31"
+        },
+        "south": {
+          "uv": [ 11, 8, 15, 12 ],
+          "texture": "#31"
+        },
+        "west": {
+          "uv": [ 11, 8, 15, 12 ],
+          "texture": "#31"
+        }
+      }
+    },
+    {
+      "from": [ 1, 4, 11 ],
+      "to": [ 5, 8, 15 ],
+      "faces": {
+        "north": {
+          "uv": [ 11, 8, 15, 12 ],
+          "texture": "#31"
+        },
+        "east": {
+          "uv": [ 1, 8, 5, 12 ],
+          "texture": "#31"
+        },
+        "south": {
+          "uv": [ 1, 8, 5, 12 ],
+          "texture": "#31"
+        },
+        "west": {
+          "uv": [ 11, 8, 15, 12 ],
+          "texture": "#31"
+        }
+      }
+    },
+    {
+      "from": [ 1, 4, 1 ],
+      "to": [ 5, 8, 5 ],
+      "faces": {
+        "north": {
+          "uv": [ 11, 8, 15, 12 ],
+          "texture": "#31"
+        },
+        "east": {
+          "uv": [ 11, 8, 15, 12 ],
+          "texture": "#31"
+        },
+        "south": {
+          "uv": [ 1, 8, 5, 12 ],
+          "texture": "#31"
+        },
+        "west": {
+          "uv": [ 1, 8, 5, 12 ],
+          "texture": "#31"
+        }
+      }
+    },
+    {
+      "from": [ 0, 0, 0 ],
+      "to": [ 16, 4, 16 ],
+      "faces": {
+        "north": {
+          "uv": [ 0, 12, 16, 16 ],
+          "texture": "#31",
+          "cullface": "north"
+        },
+        "east": {
+          "uv": [ 0, 12, 16, 16 ],
+          "texture": "#31",
+          "cullface": "east"
+        },
+        "south": {
+          "uv": [ 0, 12, 16, 16 ],
+          "texture": "#31",
+          "cullface": "south"
+        },
+        "west": {
+          "uv": [ 0, 12, 16, 16 ],
+          "texture": "#31",
+          "cullface": "west"
+        },
+        "up": {
+          "uv": [ 0, 0, 16, 16 ],
+          "texture": "#26"
+        },
+        "down": {
+          "uv": [ 0, 0, 16, 16 ],
+          "texture": "#37",
+          "cullface": "down"
+        }
+      }
+    }
+  ]
+}

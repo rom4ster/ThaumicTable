@@ -1,0 +1,12 @@
+package com.rom4ster.thaumictable.util;
+
+public class Reference {
+	
+	public static final String MOD_ID ="thaumictable";
+	public static final String NAME = "Thaumic Table";
+	public static final String VERSION = "1.0";
+	public static final String ACCEPTED_VERSIONS="[1.12.2]";
+	public static final String CLIENT_PROXY_CLASS = "com.rom4ster.thaumictable.proxy.ClientProxy";
+	public static final String COMMON_PROXY_CLASS = "com.rom4ster.thaumictable.proxy.CommonProxy";
+	public static final int GUI_TABLE = 0;
+}

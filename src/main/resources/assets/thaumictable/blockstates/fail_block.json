@@ -1,0 +1,5 @@
+{
+    "variants": {
+        "normal": { "model": "thaumictable:fail_block" }
+    }
+}
